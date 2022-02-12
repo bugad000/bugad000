@@ -2,15 +2,15 @@
 
 ## Seja bem vindo!👋🏼👦 me chamo Caio Soares
 
-My name is Caio Soares.
+Meu nome é Caio Soares.
 
-Welcome to my GitHub page.
+Bem vindo ao meu GitHub .
 <br>
 
-- 🌱 I’m currently learning HTML, CSS, Git, GitHub, Java, Python and C#.
-- 📫 How to reach me:
+- 🌱 Sou estudante de HTML, CSS, Git, GitHub, Java, Python and C#.
+- 📫 Como me achar:
 
-## **My Social Networks**
+## **Minhas redes sociais**
 
 <p align="left">
   <a href="caio.soares17@outlook.com" alt="Outlook" target="_blank">
