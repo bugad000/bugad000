@@ -7,7 +7,7 @@ Meu nome é Caio Soares.
 Bem vindo ao meu GitHub .
 <br>
 
-- 🌱 Sou estudante de HTML, CSS, Git, GitHub, Java, Python and C#.
+- 🌱 Sou estudante de HTML, CSS, Js, Git, GitHub, Java.
 - 📫 Como me achar:
 
 ## **Minhas redes sociais**
